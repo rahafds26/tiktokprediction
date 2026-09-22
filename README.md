@@ -52,6 +52,8 @@ The models were evaluated using RMSE.
 
 ## Kaggle
 
+[Kaggle Competition](https://www.kaggle.com/competitions/predictive-modelling-ds)
+
 Public leaderboard RMSE:
 
 **75,311.02064**
